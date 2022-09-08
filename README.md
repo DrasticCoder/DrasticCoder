@@ -11,13 +11,10 @@
 \
 &nbsp;
 
-- 💬&nbsp; Lets talk about **Web development**
-
-- 📫&nbsp; **drasticoder@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=DrasticCoder&theme=onedark)](https://github.com/DrasticCoder/github-profile-trophy)
 
 \
 &nbsp;
-
 
 <h3 align="left">
   Connect with me:
@@ -25,12 +22,20 @@
 
 <p align="left">
   <a href="https://twitter.com/DrasticCoder" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarphansopkar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@DeepBansode" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/deep-bansode-467085212/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@omkarphansopkar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@DeepBansode" height="30" width="40" />
   </a>
 </p>
+
+\
+&nbsp;
+
+
+- 💬&nbsp; Lets talk about **Web development**
+
+- 📫&nbsp; **drasticoder@gmail.com**
 
 \
 &nbsp;
