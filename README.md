@@ -1,50 +1,45 @@
+# Hello,<br> I'm Deep - aka [DrasticCoder] 👋 
 
-<h1 align="center">
-  Hi 
-  <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#"> I'm Deep Bansode - aka [DrasticCoder]
-</h1>
+## I'm a Student and Developer
 
-<h3 align="center">
-  Full-stack web developer based in  Mumbai, India
-</h3>
-
-\
-&nbsp;
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DrasticCoder&theme=onedark)](https://github.com/DrasticCoder/github-profile-trophy)
-
-\
-&nbsp;
-
-<h3 align="left">
-  Connect with me:
-</h3>
-
-<p align="left">
-  <a href="https://twitter.com/DrasticCoder" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@DeepBansode" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/deep-bansode-467085212/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@DeepBansode" height="30" width="40" />
-  </a>
-</p>
-
-\
-&nbsp;
+- 📚 I’m currently learning how to code efficiently.
+- 🥅 2022 Goals: Learn more about WEB DEV ⚛️
+- ⚡ Fun fact: I love to Eat 🍽️ and sleep 🧳
+- 💼 Status: Intern at [ModernSolnHub](https://modernsolnhub.com/) 🧑‍💻
 
 
-- 💬&nbsp; Lets talk about **Web development**
+### Languages & Tools
+<code><img alt="JavaScript" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img alt="MongoDB" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+<code><img alt="Express" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+<code><img alt="React" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img alt="Node.js" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code><img alt="Linux" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+ 
 
-- 📫&nbsp; **drasticoder@gmail.com**
+### Connect Me
+[![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/deep-bansode-467085212/)
+&nbsp;&nbsp;
+[![Twitter](./img/twitter.svg)](https://twitter.com/drasticcoder)
+&nbsp;&nbsp;
+[![Mail](./img/gmail.svg)](mailto:deepbansode@duck.com)
 
-\
-&nbsp;
+<details>
+<summary>⚡ GitHub Stats</summary>
 
+![DrasticCoder's GitHub stats](https://github-readme-stats.pranavdhawale.vercel.app/api?username=drasticcoder&custom_title=DrasticCoder's%20Github%20Stats&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=vision-friendly-dark&show_icons=true)
 
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=drasticCoder&show_icons=true&theme=merko&hide_title=true&include_all_commits=true&hide=stars,issues)
+</details>
 
+<details>
+<summary>⚡ Github Streak</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drasticcoder&layout=compact&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats-pmd.herokuapp.com?user=drasticcoder&theme=vision-friendly-dark&hide_border=true)
 
+</details>
 
-<a href="#"><img alt="DrasticCoder's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DrasticCoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<div align="right">
+
+![Github Profile Views](https://komarev.com/ghpvc/?username=drasticcoder&color=181717&style=flat-square&label=Profile+Views)
+
+</div>
