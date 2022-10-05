@@ -24,12 +24,15 @@
 &nbsp;&nbsp;
 [![Mail](./img/gmail.svg)](mailto:deepbansode@duck.com)
 
+<!--
 <details>
 <summary>⚡ GitHub Stats</summary>
 
 ![DrasticCoder's GitHub stats](https://github-readme-stats.pranavdhawale.vercel.app/api?username=drasticcoder&custom_title=DrasticCoder's%20Github%20Stats&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=vision-friendly-dark&show_icons=true)
 
 </details>
+-->
+
 
 <details>
 <summary>⚡ Github Streak</summary>
