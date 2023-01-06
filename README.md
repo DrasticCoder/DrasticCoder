@@ -3,7 +3,7 @@
 ## I'm a Student and Developer
 
 - 📚 I’m currently learning how to code efficiently.
-- 🥅 2022 Goals: Learn more about WEB DEV ⚛️
+- 🥅 2023 Goals: Learn more about WEB DEV ⚛️
 - ⚡ Fun fact: I love to Eat 🍽️ and sleep 🧳
 - 💼 Status: Intern at [ModernSolnHub](https://modernsolnhub.com/) 🧑‍💻
 
