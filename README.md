@@ -5,7 +5,7 @@
 - 📚 I’m currently learning how to code efficiently.
 - 🥅 2023 Goals: Learn more about WEB DEV ⚛️
 - ⚡ Fun fact: I love to Eat 🍽️ and sleep 🧳
-- 💼 Status: Intern at [ModernSolnHub](https://modernsolnhub.com/) 🧑‍💻
+- 💼 Status: Intern at [Ideamagix](https://ideamagixd.com/) 🧑‍💻
 
 
 ### Languages & Tools
@@ -33,13 +33,14 @@
 </details>
 -->
 
-
+<!--
 <details>
 <summary>⚡ Github Streak</summary>
 
 ![GitHub Streak](https://github-readme-streak-stats-pmd.herokuapp.com?user=drasticcoder&theme=vision-friendly-dark&hide_border=true)
 
 </details>
+-->
 
 <div align="right">
 
