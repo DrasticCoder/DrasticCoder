@@ -5,7 +5,7 @@
 - 📚 I’m currently learning how to code efficiently.
 - 🥅 2023 Goals: Learn more about WEB DEV ⚛️
 - ⚡ Fun fact: I love to Eat 🍽️ and sleep 🧳
-- 💼 Status: Intern at [Ideamagix](https://ideamagixd.com/) 🧑‍💻
+- 💼 Status: Intern at [Ideamagix](https://ideamagix.com/) 🧑‍💻
 
 
 ### Languages & Tools
