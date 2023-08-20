@@ -18,7 +18,7 @@
  
 
 ### Connect Me
-[![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/deep-bansode-467085212/)
+[![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/deep-bansode/)
 &nbsp;&nbsp;
 [![Twitter](./img/twitter.svg)](https://twitter.com/drasticcoder)
 &nbsp;&nbsp;
